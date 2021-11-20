@@ -1,7 +1,3 @@
 # love2d-metaballs
 
-![01](img/01.jpg "01")
-
-![02](img/02.jpg "02")
-
-![03](img/02.jpg "03")
+![01](https://i.imgur.com/FGHhKop.jpg "01")
